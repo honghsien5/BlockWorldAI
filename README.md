@@ -10,7 +10,7 @@ Code Example
 --------------
 	
 Run it with the following command format:  
-`<addr>`java BlockWorldAI [input file]
+`java BlockWorldAI [input file]`
 
 Sample input file format:  
 
@@ -73,7 +73,7 @@ Installation
 
 1.Download the code into a directory  
 2.Build the files by using the following command:  
-`<addr>`javac BlockWorldAI.java  
+`javac BlockWorldAI.java`  
 3.The program is now ready to run  
 
 Contributors
