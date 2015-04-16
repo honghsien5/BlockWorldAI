@@ -1,5 +1,6 @@
-# BlockWorldAI
+BlockWorldAI
 ==============
+
 Synopsis
 --------------
 
