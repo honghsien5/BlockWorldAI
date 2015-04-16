@@ -1,6 +1,5 @@
 # BlockWorldAI
 ==============
-
 Synopsis
 --------------
 
@@ -10,7 +9,7 @@ BlockWorld AI is a project that is programmed to demonstrate the forward chainin
 Code Example
 --------------
 	
-Run it with the following command format:
+Run it with the following command format: 
 	java BlockWorldAI [input file]
 
 Sample input file format:  
@@ -72,9 +71,9 @@ This project was created to practice a heuristic algorithm to find a shortest pa
 Installation
 --------------
 
-Download the code into a directory
-Build the files by using the following command: javac BlockWorldAI.java
-The program is now ready to run
+Download the code into a directory 
+Build the files by using the following command: javac BlockWorldAI.java 
+The program is now ready to run 
 
 Contributors
 --------------
