@@ -3,8 +3,6 @@
 //Date: 12/4/14
 //Description: BlockWorld AI is a project that is programmed to demonstrate the forward chaining process by calculating the path to reach from an initial state to the goal state.
 
-package hw4;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -282,7 +280,7 @@ class BlockWorld{
 	}
 }
 
-public class hw4 {
+public class BlockWorldAI {
 	static int count=0;
 	static int countV2=0;
 	//findPath that keep track of the path that has been done before
