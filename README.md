@@ -10,7 +10,7 @@ Code Example
 --------------
 	
 Run it with the following command format:  
-	java BlockWorldAI [input file]
+`<addr>`java BlockWorldAI [input file]
 
 Sample input file format:  
 
@@ -71,9 +71,10 @@ This project was created to practice a heuristic algorithm to find a shortest pa
 Installation
 --------------
 
-Download the code into a directory  
-Build the files by using the following command: javac BlockWorldAI.java  
-The program is now ready to run  
+1.Download the code into a directory  
+2.Build the files by using the following command:  
+`<addr>`javac BlockWorldAI.java  
+3.The program is now ready to run  
 
 Contributors
 --------------
